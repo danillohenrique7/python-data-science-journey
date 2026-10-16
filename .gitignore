@@ -1,0 +1,15 @@
+# Arquivos temporários do Python
+__pycache__/
+*.pyc
+
+# Ambientes virtuais
+.venv/
+venv/
+
+# Relatórios gerados pelos exercícios
+relatorio.csv
+relatorio_vendas.xlsx
+vendas_limpas.csv
+
+# Arquivos temporários do Excel
+~$*.xlsx
